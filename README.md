@@ -1,4 +1,4 @@
-# Budget Watch
+# General expenses management system
 
 
 This app helps manage personal budgets. After adding your budgets, simply record your day-to-day transactions.
